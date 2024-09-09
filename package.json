@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "socket.io-client": "^4.7.5"
+  },
+  "name": "pumpwebsockets",
+  "version": "1.0.0",
+  "main": "connect.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ImArtisann/Pump.fun-Websocket.git"
+  },
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
