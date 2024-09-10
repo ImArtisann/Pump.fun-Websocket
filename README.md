@@ -1,4 +1,4 @@
-To Install npm install npm install @imartisann/pumpwebsockets@1.0.2
+To Install npm install npm install @imartisann/pumpwebsockets@1.0.3
 
 To subscribe to trades created
 ```javascript
