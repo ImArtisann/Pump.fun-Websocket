@@ -18,4 +18,4 @@ subscribeToNewCoinCreated(data =>{
     console.log(data)
 })
 ```
-![coinCreated](https://imgur.com/CaE8ItS.png)
+![coinCreated](https://imgur.com/Vta2ljL.png)
