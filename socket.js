@@ -74,6 +74,8 @@ export class WebSocketClient {
                 bonding_curve: jsonData.payload.bonding_curve,
                 associated_bonding_curve: jsonData.payload.associated_bonding_curve,
                 creator: jsonData.payload.creator,
+                raydium_pool: jsonData.payload.raydium_pool,
+                virtual_sol_reserves: jsonData.payload.virtual_sol_reserves,
                 virtual_token_reserves: jsonData.payload.virtual_token_reserves,
                 hidden: jsonData.payload.hidden,
                 total_supply: jsonData.payload.total_supply,

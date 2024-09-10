@@ -3,11 +3,14 @@
     "socket.io-client": "^4.7.5"
   },
   "name": "@imartisann/pumpwebsockets",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "connect.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ImArtisann/Pump.fun-Websocket.git"
+    "url": "git+https://github.com/ImArtisann/Pump.fun-Websocket.git"
   },
   "type": "module",
   "devDependencies": {},
