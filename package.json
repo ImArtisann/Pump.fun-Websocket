@@ -3,7 +3,7 @@
     "socket.io-client": "^4.7.5"
   },
   "name": "@imartisann/pumpwebsockets",
-  "version": "1.0.31",
+  "version": "1.0.4",
   "main": "connect.js",
   "files": [
     "connect.js",
@@ -17,7 +17,6 @@
     "url": "git+https://github.com/ImArtisann/Pump.fun-Websocket.git"
   },
   "type": "module",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
