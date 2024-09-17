@@ -13,7 +13,7 @@ export class WebSocketClient {
             reconnectionAttempts: Infinity,
             reconnectionDelay: 1000,
             reconnectionDelayMax: 5000,
-            timeout: 20000,
+            timeout: 30000,
             ...options
         };
         this.socket = null;

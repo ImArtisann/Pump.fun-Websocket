@@ -3,7 +3,7 @@
     "socket.io-client": "^4.7.5"
   },
   "name": "@imartisann/pumpwebsockets",
-  "version": "1.0.41",
+  "version": "1.0.42",
   "main": "connect.js",
   "files": [
     "connect.js",
